@@ -72,4 +72,4 @@ Length Conversion:
 If you want to contribute to this project, you can fork the repository and create a pull request with your changes. I appreciate any contributions or suggestions to improve the program.
 
 ## License
-This project is licensed under the **<ins>MIT License</ins>** 
+[MIT License](LICENSE)
