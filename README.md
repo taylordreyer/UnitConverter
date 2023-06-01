@@ -7,7 +7,6 @@ Follow the on-screen instructions to select the units and enter the value to con
 The program will display the converted values.
 
 ## Note: The program supports the following units for each conversion type:
-
 ## Length Units
 1. mm (millimeter)
 2. cm (centimeter)
