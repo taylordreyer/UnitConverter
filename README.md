@@ -37,7 +37,7 @@ qt (quart)
 gal (gallon)
 
 ## Example
-Welcome to the Unit Converter!
+```Welcome to the Unit Converter!
 Which type of conversion would you like to perform?
 1. Length
 2. Mass
@@ -67,9 +67,10 @@ Length Conversion:
 3.281 ft
 1.094 yd
 0.06214 mi
+```
 
 ## Contributing
 If you want to contribute to this project, you can fork the repository and create a pull request with your changes. I appreciate any contributions or suggestions to improve the program.
 
 ## License
-This project is licensed under the **__MIT__** License.
+This project is licensed under the <ins>MIT License</ins>
